@@ -1,6 +1,6 @@
 # todo-app
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a ToDo List Application that allows you to add, edit, delete todos, developed in Vue3.
 
 ## Recommended IDE Setup
 
